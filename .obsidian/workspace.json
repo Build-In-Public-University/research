@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "6899d221dc8365b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "58df125ad84b4152",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e9ea199fc60e2a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "9e4a32dde6bf90ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research Error Checks/Evaluate Research Papers For Errors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Evaluate Research Papers For Errors"
+            }
+          },
+          {
+            "id": "10ab8feea47932ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research Error Checks/Step 1 - Collect Input Papers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Step 1 - Collect Input Papers"
+            }
+          },
+          {
+            "id": "6de9474139edc7e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Step 2 - Create competing analysis models.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Step 2 - Create competing analysis models"
+            }
+          },
+          {
+            "id": "c8984cfa1712475d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
+            "id": "f53abefc718dfa04",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
+          },
+          {
+            "id": "c27516eaca6804a3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5cfdbb30bfed983c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a366bf137b99f9f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0bff0a5ecb844cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ec3936bf2bbe8174",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f04a44d47d2d45ed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "10bbac9be0645ec2",
+    "type": "split",
+    "children": [
+      {
+        "id": "69c3909664aed860",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a260a071b8023a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Step 2 - Create competing analysis models.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Step 2 - Create competing analysis models"
+            }
+          },
+          {
+            "id": "3fc70d8fc93cd31f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Step 2 - Create competing analysis models.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Step 2 - Create competing analysis models"
+            }
+          },
+          {
+            "id": "c5c543af69e18ab7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7a56b2c01c90a1df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Step 2 - Create competing analysis models.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Step 2 - Create competing analysis models"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c27516eaca6804a3",
+  "lastOpenFiles": [
+    "team/editor.md",
+    "team",
+    "editor.md",
+    "Complexity Inflation: The Hidden Economics of Scaling/main/Bibliography.md",
+    "Complexity Inflation: The Hidden Economics of Scaling/main/9. Conclusion.md",
+    "Complexity Inflation: The Hidden Economics of Scaling/main/8. Practical Applications.md",
+    "Complexity Inflation: The Hidden Economics of Scaling/main/7. Implications for the AI Era.md ",
+    "Complexity Inflation: The Hidden Economics of Scaling/main/7. ",
+    "Complexity Inflation: The Hidden Economics of Scaling/main/6. The Human Insurance Model.md",
+    "Complexity Inflation: The Hidden Economics of Scaling/main/5. The Startup Lifecycle Through the Complexity Lens.md",
+    "Complexity Inflation: The Hidden Economics of Scaling/main/3. How Complexity Scales in Networks.md",
+    "Complexity Inflation: The Hidden Economics of Scaling/main/2. The Economics of Perfect Understanding.md",
+    "Complexity Inflation: The Hidden Economics of Scaling/main/1. Introduction.md",
+    "Complexity Inflation: The Hidden Economics of Scaling/main/4. The Distance Problem: Proximity to Value Understanding.md",
+    "Complexity Inflation: The Hidden Economics of Scaling/main/How Complexity Scales in Networks.md",
+    "Complexity Inflation: The Hidden Economics of Scaling/main/How Complexity Scales in Networks",
+    "Complexity Inflation: The Hidden Economics of Scaling/main/Introduction.md",
+    "Complexity Inflation: The Hidden Economics of Scaling/main/The Economics of Perfect Understanding.md",
+    "Complexity Inflation: The Hidden Economics of Scaling/main/introduction.md",
+    "Complexity Inflation: The Hidden Economics of Scaling/main/v0.0.1.md",
+    "Complexity Inflation: The Hidden Economics of Scaling/main",
+    "Complexity Inflation: The Hidden Economics of Scaling/underlying_research",
+    "Complexity Inflation: The Hidden Economics of Scaling",
+    "Research Error Checks/Step 1 - Collect Input Papers.md",
+    "Step 2 - Create competing analysis models.md",
+    "Research Error Checks/Evaluate Research Papers For Errors.md",
+    "Research Error Checks",
+    "README.md"
+  ]
+}
